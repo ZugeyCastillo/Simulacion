@@ -1,5 +1,5 @@
 # Simulación
-Curso de mi falcutad (Facultad de Ciencias Físico Matemáticas) donde aprendo a construir un portafolio de inversión utilizando el lenguaje de programación R.  
+Unidad de aprendizaje de mi falcutad (Facultad de Ciencias Físico Matemáticas) donde aprendo a construir un portafolio de inversión utilizando el lenguaje de programación R.  
 
 Contrucción del mejor portafolio de inversión posible de ETF's utilizando herramientas de proyección y optimización.  
 
